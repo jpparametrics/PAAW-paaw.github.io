@@ -6,9 +6,35 @@
 </description>
     <link>http://paaw.github.io/</link>
     <atom:link href="http://paaw.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 01 May 2015 15:44:42 -0500</pubDate>
-    <lastBuildDate>Fri, 01 May 2015 15:44:42 -0500</lastBuildDate>
+    <pubDate>Sun, 17 May 2015 08:34:32 -0500</pubDate>
+    <lastBuildDate>Sun, 17 May 2015 08:34:32 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Status</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;Monthly technical meetings with NASA researchers will occur on the last Monday or Wednesday of every month at 3 PM Central Time. The next meeting is scheduled for Wednesday May 27.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;status-update&quot;&gt;Status Update&lt;/h1&gt;
+
+&lt;h3 id=&quot;maewing1&quot;&gt;mAEWing1&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Fabrication of Sköll (&lt;a href=&quot;https://en.wikipedia.org/wiki/Sk%C3%B6ll&quot;&gt;Wikipedia&lt;/a&gt;, &lt;a href=&quot;/download/skoll.mp3&quot;&gt;Pronounciation&lt;/a&gt;) with wing set 1 (WS1) is complete. Wiring and electrical integration is expected to be complete early the week of May 18 followed by mass properties testing.&lt;/li&gt;
+  &lt;li&gt;VT, CM Soft, and Dave updated models and completed preliminary flutter analysis.&lt;/li&gt;
+  &lt;li&gt;Found flutter speed sensitive to c.g. location. Will update models following mass properties testing on Sköll.&lt;/li&gt;
+  &lt;li&gt;Have about 7 papers for SciTech session.&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Thu, 14 May 2015 00:00:00 -0500</pubDate>
+        <link>http://paaw.github.io/status/2015/05/14/status.html</link>
+        <guid isPermaLink="true">http://paaw.github.io/status/2015/05/14/status.html</guid>
+        
+        
+        <category>status</category>
+        
+      </item>
     
       <item>
         <title>Status</title>
@@ -438,58 +464,6 @@
         
         
         <category>strategic</category>
-        
-      </item>
-    
-      <item>
-        <title>Status</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;Hold a strategic / tactical meeting next week on MDAO approach for mAEWing2&lt;/li&gt;
-  &lt;li&gt;Will also hold meetings on the modeling approach for aeroelastic vehicles, pertinent to mAEWing1, over the next couple of weeks&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;status-updates&quot;&gt;Status Updates&lt;/h1&gt;
-&lt;ul&gt;
-  &lt;li&gt;Need to schedule kickoff meeting&lt;/li&gt;
-  &lt;li&gt;mAEWing1
-    &lt;ul&gt;
-      &lt;li&gt;UMN received draft excitations from STI, inputs look good for integration into control laws&lt;/li&gt;
-      &lt;li&gt;Both spars built, design complete, and ordered wing core foam&lt;/li&gt;
-      &lt;li&gt;UMN completed additional testing on actuators, will have a finalized report uploaded to the conservancy&lt;/li&gt;
-      &lt;li&gt;NDOF modeling
-        &lt;ul&gt;
-          &lt;li&gt;Should CMSoft create a full dynamic system model for mAEWing1?
-            &lt;ul&gt;
-              &lt;li&gt;Right now focused on aerodynamic modeling for mAEWing2&lt;/li&gt;
-              &lt;li&gt;Could provide validation of our modeling process
-                &lt;ul&gt;
-                  &lt;li&gt;CFD / FEM model &amp;lt;– currently we’re not pursuing this for mAWing1&lt;/li&gt;
-                  &lt;li&gt;DLM / VLM models&lt;/li&gt;
-                  &lt;li&gt;Linear ROMs&lt;/li&gt;
-                  &lt;li&gt;Control law designs&lt;/li&gt;
-                &lt;/ul&gt;
-              &lt;/li&gt;
-              &lt;li&gt;We’re investigating modeling approaches and will keep asking this question during the next couple weeks&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;X-56
-    &lt;ul&gt;
-      &lt;li&gt;VT extracted mode shapes, developed beam model, and delivered to Dave S for modeling and control approach validation&lt;/li&gt;
-      &lt;li&gt;Will clean up tools and paper for upload to the website and repositories&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Thu, 15 Jan 2015 00:00:00 -0600</pubDate>
-        <link>http://paaw.github.io/status/2015/01/15/status.html</link>
-        <guid isPermaLink="true">http://paaw.github.io/status/2015/01/15/status.html</guid>
-        
-        
-        <category>status</category>
         
       </item>
     
