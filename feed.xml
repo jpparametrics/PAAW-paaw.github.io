@@ -6,9 +6,59 @@
 </description>
     <link>http://paaw.github.io/</link>
     <atom:link href="http://paaw.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 18 Jun 2015 12:13:26 -0500</pubDate>
-    <lastBuildDate>Thu, 18 Jun 2015 12:13:26 -0500</lastBuildDate>
+    <pubDate>Thu, 18 Jun 2015 14:53:50 -0500</pubDate>
+    <lastBuildDate>Thu, 18 Jun 2015 14:53:50 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Status</title>
+        <description>&lt;h1 id=&quot;status-update&quot;&gt;Status Update&lt;/h1&gt;
+
+&lt;h3 id=&quot;maewing1&quot;&gt;mAEWing1&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;UMN
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;/download/skoll.mp3&quot;&gt;Sköll&lt;/a&gt; with WS1 complete, flight attempted on 2015-06-16, but scrubbed due to intermittent faults with ground support equipment.&lt;/li&gt;
+      &lt;li&gt;Next &lt;a href=&quot;/download/skoll.mp3&quot;&gt;Sköll&lt;/a&gt; flight attempt will be Tuesday, 2015-06-23.&lt;/li&gt;
+      &lt;li&gt;Hati center-body and wing layup with WS2 complete. Wings (WS2) will be built as flexible wings. Anticipating ready for flexible aircraft flights 1st week of July.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;STI
+    &lt;ul&gt;
+      &lt;li&gt;Transitioning from flight data analysis on Fenrir to model development.&lt;/li&gt;
+      &lt;li&gt;A structure only Reduced Order Model (ROM) has been built.&lt;/li&gt;
+      &lt;li&gt;Anticipating 1 ROM complete next week, linear model at 1 flight condition, likely around when BFF goes unstable.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;CM Soft
+    &lt;ul&gt;
+      &lt;li&gt;Unsteady aeroelastic simulation with the c.g. held fixed.&lt;/li&gt;
+      &lt;li&gt;Inviscid flow with a step input.&lt;/li&gt;
+      &lt;li&gt;Used to find damping ratio as a function of airspeed.&lt;/li&gt;
+      &lt;li&gt;Estimating an 11-14 Hz mode is going unstable at around 78 - 80 knots.&lt;/li&gt;
+      &lt;li&gt;Not much variation with altitude.&lt;/li&gt;
+      &lt;li&gt;May be useful to look at reactions at the center node.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;VT
+    &lt;ul&gt;
+      &lt;li&gt;Working on a drag buildup.&lt;/li&gt;
+      &lt;li&gt;Mostly friction and form drag at our test conditions, low induced drag contributions.&lt;/li&gt;
+      &lt;li&gt;Adding contribution from leading edge flaps.&lt;/li&gt;
+      &lt;li&gt;Similar to CM Soft, not finding much variation with altitude.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Thu, 18 Jun 2015 00:00:00 -0500</pubDate>
+        <link>http://paaw.github.io/status/2015/06/18/status.html</link>
+        <guid isPermaLink="true">http://paaw.github.io/status/2015/06/18/status.html</guid>
+        
+        
+        <category>status</category>
+        
+      </item>
     
       <item>
         <title>Status</title>
@@ -348,97 +398,6 @@
         <pubDate>Thu, 26 Mar 2015 00:00:00 -0500</pubDate>
         <link>http://paaw.github.io/status/2015/03/26/status.html</link>
         <guid isPermaLink="true">http://paaw.github.io/status/2015/03/26/status.html</guid>
-        
-        
-        <category>status</category>
-        
-      </item>
-    
-      <item>
-        <title>Status</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;Dates / times that work for the mAEWing1 design review, given in central time, are:
-    &lt;ul&gt;
-      &lt;li&gt;Thursday, February 26: 12 PM&lt;/li&gt;
-      &lt;li&gt;Friday, February 27: 10 AM, 1 PM, 3 PM, 4 PM&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;We’ll hear from NASA which works best for them, likely the Thursday time slot.&lt;/p&gt;
-
-&lt;h1 id=&quot;status-updates&quot;&gt;Status Updates&lt;/h1&gt;
-
-&lt;h3 id=&quot;year-1-modeling-tasks&quot;&gt;Year 1 Modeling Tasks&lt;/h3&gt;
-
-&lt;h4 id=&quot;survey-of-modeling-approaches&quot;&gt;Survey of Modeling Approaches&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;End goal of PAAW is a validated tool chain that designers can use for flexible / morphing vehicles, modeling is an important aspect of this toolchain
-    &lt;ul&gt;
-      &lt;li&gt;Survey modeling approaches, assumptions, and implications&lt;/li&gt;
-      &lt;li&gt;Start with exploring modeling approaches used for current and past ASE aircraft programs (narrow scope)
-        &lt;ul&gt;
-          &lt;li&gt;STI will lead with input from team members&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;UMN will be exploring potential modeling approaches (broad scope)&lt;/li&gt;
-      &lt;li&gt;End result in Year 1 will be a list or tree of:
-        &lt;ul&gt;
-          &lt;li&gt;Modeling approaches with a short description&lt;/li&gt;
-          &lt;li&gt;Assumptions made at each step&lt;/li&gt;
-          &lt;li&gt;Implications of the assumption and approach&lt;/li&gt;
-          &lt;li&gt;A recommended approach that we will use for mAEWing2 and xAEWing3 based on those vehicles expected characteristics. Note: this tree will help guide designers through the process of picking a modeling approach. There are a lot of approaches and potential assumptions and no single approach will work best for every potential aircraft. We will simply be listing the potential methods, potential assumptions, and implications and pick what we think is the best approach for our aircraft.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;It is expected that this survey will not be completed in time for the mAEWing1 design, but will be used for the mAEWing2, xAEWing3, and N+3 modeling efforts.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;maewing1-modeling-approach&quot;&gt;mAEWing1 Modeling Approach&lt;/h4&gt;
-&lt;p&gt;Two approaches will be used for mAEWing1, the first is a CFD/CSD based approach and the second is a flight dynamics approach.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;CFD / CSD
-    &lt;ul&gt;
-      &lt;li&gt;VT will create a FEM based on CAD, geometry, and material definitions for mAEWing1 supplied by UMN&lt;/li&gt;
-      &lt;li&gt;CMSoft will create a CFD based on the Outer Mold Line (OML) of mAWing1 as defined by the CAD supplied by UMN&lt;/li&gt;
-      &lt;li&gt;CMSoft will use the CFD and FEM to create a CFD/CSD model, which will be used to generate linear ROMs&lt;/li&gt;
-      &lt;li&gt;STI will incorporate actuator models into the linear ROMs, which will then be used to design control laws for mAEWing1&lt;/li&gt;
-      &lt;li&gt;2 - 6 weeks out from having ROMs for mAEWing1&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Flight dynamics
-    &lt;ul&gt;
-      &lt;li&gt;Creates the NDOF model by adding a structural vibration solution and aeroelastic aero derivatives onto a rigid body dynamic model
-        &lt;ul&gt;
-          &lt;li&gt;Advantages in providing insight into the flexible vehicle dynamics and being able to easily update the rigid body model based on aero and mass properties testing&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Will use rigid body aero from CMSoft’s CFD and FEM from VT; already have tools in place to extract required data from FEM&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;maewing2-design&quot;&gt;mAEWing2 Design&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Have preliminary CFD and FEM complete&lt;/li&gt;
-  &lt;li&gt;Need composite panel scaling for structure from UMN&lt;/li&gt;
-  &lt;li&gt;Preliminary modal analysis and flutter speeds complete&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;mini-mutt-flight-testing&quot;&gt;mini MUTT Flight Testing&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Analysis on Flight 17 complete&lt;/li&gt;
-  &lt;li&gt;Looks like a higher gain on pitch damper could be helpful&lt;/li&gt;
-  &lt;li&gt;Planning on moving c.g. 0.25 inches forward; may provide increased pitch stability and will give insight into sensitivity of c.g. location&lt;/li&gt;
-  &lt;li&gt;Planning on performing 3211 excitations on all surface pairs (only pitch and roll surfaces were tested last flight) to get a more complete aero data set&lt;/li&gt;
-  &lt;li&gt;Planning on testing an auto land flight control law&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Thu, 19 Feb 2015 00:00:00 -0600</pubDate>
-        <link>http://paaw.github.io/status/2015/02/19/status.html</link>
-        <guid isPermaLink="true">http://paaw.github.io/status/2015/02/19/status.html</guid>
         
         
         <category>status</category>
