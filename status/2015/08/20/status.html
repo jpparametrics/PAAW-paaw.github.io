@@ -10,7 +10,7 @@
   <meta name="description" content="Status Update">
 
   <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="http://paaw.github.io/status/2015/06/18/status.html">
+  <link rel="canonical" href="http://paaw.github.io/status/2015/08/20/status.html">
   <link rel="alternate" type="application/rss+xml" title="PAAW" href="http://paaw.github.io/feed.xml" />
 </head>
 
@@ -73,7 +73,7 @@
 
   <header class="post-header">
     <h1 class="post-title">Status</h1>
-    <p class="post-meta">Jun 18, 2015</p>
+    <p class="post-meta">Aug 20, 2015</p>
   </header>
 
   <article class="post-content">
@@ -81,40 +81,36 @@
 
 <h3 id="maewing1">mAEWing1</h3>
 <ul>
-  <li>UMN
+  <li>Next flights on <a href="/download/skoll.mp3">Sköll</a>:
     <ul>
-      <li><a href="/download/skoll.mp3">Sköll</a> with WS1 complete, flight attempted on 2015-06-16, but scrubbed due to intermittent faults with ground support equipment.</li>
-      <li>Next <a href="/download/skoll.mp3">Sköll</a> flight attempt will be Tuesday, 2015-06-23.</li>
-      <li>Hati center-body and wing layup with WS2 complete. Wings (WS2) will be built as flexible wings. Anticipating ready for flexible aircraft flights 1st week of July.</li>
+      <li>Split into two flights:
+        <ul>
+          <li>Flight 1: Chirps at 27 m/s</li>
+          <li>Flight 2: Chirps at 23 m/s (repeat of previous test) and open loop speed ramp to find flutter</li>
+        </ul>
+      </li>
     </ul>
   </li>
-  <li>STI
+  <li>Re-ran GVT on wing set 1, 3-35 Hz and 3-13 Hz
     <ul>
-      <li>Transitioning from flight data analysis on Fenrir to model development.</li>
-      <li>A structure only Reduced Order Model (ROM) has been built.</li>
-      <li>Anticipating 1 ROM complete next week, linear model at 1 flight condition, likely around when BFF goes unstable.</li>
+      <li>Will be sending data out for a model update</li>
     </ul>
   </li>
-  <li>CM Soft
-    <ul>
-      <li>Unsteady aeroelastic simulation with the c.g. held fixed.</li>
-      <li>Inviscid flow with a step input.</li>
-      <li>Used to find damping ratio as a function of airspeed.</li>
-      <li>Estimating an 11-14 Hz mode is going unstable at around 78 - 80 knots.</li>
-      <li>Not much variation with altitude.</li>
-      <li>May be useful to look at reactions at the center node.</li>
-    </ul>
-  </li>
-  <li>VT
-    <ul>
-      <li>Working on a drag buildup.</li>
-      <li>Mostly friction and form drag at our test conditions, low induced drag contributions.</li>
-      <li>Adding contribution from leading edge flaps.</li>
-      <li>Similar to CM Soft, not finding much variation with altitude.</li>
-    </ul>
-  </li>
+  <li>STI concentrating on GVT update</li>
+  <li>STI starting to look at Flight 09 data, working with UMN for parameter estimation then a model update</li>
+  <li>Dave S. conducting model comparisons with STI, wrapping up a working paper on a flutter suppression controller with robustness against all of the available models</li>
+  <li>VT updated FEM to match mode frequencies for Wing Set 1 based on older UMN GVT</li>
 </ul>
 
+<h3 id="maewing2">mAEWing2</h3>
+<ul>
+  <li>VT using scaled X-56 as an initial design to optimize from
+    <ul>
+      <li>1st step is to design a wing box for flutter at 60 knots</li>
+    </ul>
+  </li>
+  <li>Aurora sent 3D printed mold design out for quotes</li>
+</ul>
 
   </article>
 
