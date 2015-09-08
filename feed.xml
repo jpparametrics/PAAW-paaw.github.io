@@ -6,9 +6,89 @@
 </description>
     <link>http://paaw.github.io/</link>
     <atom:link href="http://paaw.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 27 Aug 2015 11:24:16 -0500</pubDate>
-    <lastBuildDate>Thu, 27 Aug 2015 11:24:16 -0500</lastBuildDate>
+    <pubDate>Fri, 04 Sep 2015 14:23:42 -0500</pubDate>
+    <lastBuildDate>Fri, 04 Sep 2015 14:23:42 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Status</title>
+        <description>&lt;h1 id=&quot;status-update&quot;&gt;Status Update&lt;/h1&gt;
+
+&lt;h3 id=&quot;maewing1&quot;&gt;mAEWing1&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Hati with Wing Set 2
+    &lt;ul&gt;
+      &lt;li&gt;Good GVT complete, except for 1 mode around 5.2 Hz which is difficult to identify
+        &lt;ul&gt;
+          &lt;li&gt;Conducting additional tests close to that mode&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Mass properties testing complete&lt;/li&gt;
+      &lt;li&gt;Anticipated 1-2 weeks for FEM update once GVT testing is complete&lt;/li&gt;
+      &lt;li&gt;Models are a quick turn around after the FEM update&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/download/skoll.mp3&quot;&gt;Sköll&lt;/a&gt; with Wing Set 1
+    &lt;ul&gt;
+      &lt;li&gt;Cleaning up models and validating against each other and against the flight data&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Thu, 03 Sep 2015 00:00:00 -0500</pubDate>
+        <link>http://paaw.github.io/status/2015/09/03/status.html</link>
+        <guid isPermaLink="true">http://paaw.github.io/status/2015/09/03/status.html</guid>
+        
+        
+        <category>status</category>
+        
+      </item>
+    
+      <item>
+        <title>Status</title>
+        <description>&lt;h1 id=&quot;status-update&quot;&gt;Status Update&lt;/h1&gt;
+
+&lt;h3 id=&quot;maewing1&quot;&gt;mAEWing1&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/download/skoll.mp3&quot;&gt;Sköll&lt;/a&gt; with Wing Set 1
+    &lt;ul&gt;
+      &lt;li&gt;Flight 12 captured open-loop chirp data at 27 m/s&lt;/li&gt;
+      &lt;li&gt;Flight 13 found open-loop flutter at 30 m/s
+        &lt;ul&gt;
+          &lt;li&gt;Wing Set 1 is likely a loss, the &lt;a href=&quot;/download/skoll.mp3&quot;&gt;Sköll&lt;/a&gt; center-body can be repaired&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Updated FEM is matching mode shapes from GVT, asymmetry is causing some slight differences in mode shape and frequencies&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Hati with Wing Set 2 is in integration
+    &lt;ul&gt;
+      &lt;li&gt;Anticipated to be complete 8/28&lt;/li&gt;
+      &lt;li&gt;GVT scheduled 8/29 and 8/30
+        &lt;ul&gt;
+          &lt;li&gt;Should change the excitation force point for better identification of torsion modes&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;maewing2&quot;&gt;mAEWing2&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;VT working on defining material properties for the sandwich panel&lt;/li&gt;
+  &lt;li&gt;Nearly complete with analysis module part of the shape optimization&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Thu, 27 Aug 2015 00:00:00 -0500</pubDate>
+        <link>http://paaw.github.io/status/2015/08/27/status.html</link>
+        <guid isPermaLink="true">http://paaw.github.io/status/2015/08/27/status.html</guid>
+        
+        
+        <category>status</category>
+        
+      </item>
     
       <item>
         <title>Status</title>
@@ -383,69 +463,6 @@
         <pubDate>Thu, 18 Jun 2015 00:00:00 -0500</pubDate>
         <link>http://paaw.github.io/status/2015/06/18/status.html</link>
         <guid isPermaLink="true">http://paaw.github.io/status/2015/06/18/status.html</guid>
-        
-        
-        <category>status</category>
-        
-      </item>
-    
-      <item>
-        <title>Status</title>
-        <description>&lt;h1 id=&quot;status-update&quot;&gt;Status Update&lt;/h1&gt;
-
-&lt;h3 id=&quot;maewing1&quot;&gt;mAEWing1&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Flight tests on Fenrir complete with the following control laws validated:
-    &lt;ul&gt;
-      &lt;li&gt;Pitch and roll angle tracking&lt;/li&gt;
-      &lt;li&gt;Auto throttle / airspeed hold&lt;/li&gt;
-      &lt;li&gt;Auto approach and landing&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/download/skoll.mp3&quot;&gt;Sköll&lt;/a&gt; MOI testing complete with the following values:
-    &lt;ul&gt;
-      &lt;li&gt;Ixx: 3.098 kg-m^2&lt;/li&gt;
-      &lt;li&gt;Iyy: 0.464 kg-m^2&lt;/li&gt;
-      &lt;li&gt;Izz: 3.315 kg-m^2&lt;/li&gt;
-      &lt;li&gt;Mass: 6.2698 kg&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Changes will now be tracked from this baseline and updates to the mass and inertia will be sent.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/download/skoll.mp3&quot;&gt;Sköll&lt;/a&gt; rigid flight test plan:
-    &lt;ul&gt;
-      &lt;li&gt;Ganged surface excitations to identify SISO system&lt;/li&gt;
-      &lt;li&gt;Individual control surface excitations&lt;/li&gt;
-      &lt;li&gt;Pitch multisines&lt;/li&gt;
-      &lt;li&gt;Airspeeds: 20 m/s, 30 m/s, 40 m/s&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Thu, 11 Jun 2015 00:00:00 -0500</pubDate>
-        <link>http://paaw.github.io/status/2015/06/11/status.html</link>
-        <guid isPermaLink="true">http://paaw.github.io/status/2015/06/11/status.html</guid>
-        
-        
-        <category>status</category>
-        
-      </item>
-    
-      <item>
-        <title>Status</title>
-        <description>&lt;h1 id=&quot;status-update&quot;&gt;Status Update&lt;/h1&gt;
-
-&lt;h3 id=&quot;maewing1&quot;&gt;mAEWing1&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Mass properties testing of &lt;a href=&quot;/download/skoll.mp3&quot;&gt;Sköll&lt;/a&gt; complete, analysis in progress.&lt;/li&gt;
-  &lt;li&gt;Flight software updated for &lt;a href=&quot;/download/skoll.mp3&quot;&gt;Sköll&lt;/a&gt;.&lt;/li&gt;
-  &lt;li&gt;Next parameter estimation flight tests should include ganged 3-2-1-1 excitations with the same allocation as the control software to provide SISO identification.&lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Thu, 04 Jun 2015 00:00:00 -0500</pubDate>
-        <link>http://paaw.github.io/status/2015/06/04/status.html</link>
-        <guid isPermaLink="true">http://paaw.github.io/status/2015/06/04/status.html</guid>
         
         
         <category>status</category>
