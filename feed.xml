@@ -6,9 +6,54 @@
 </description>
     <link>http://paaw.github.io/</link>
     <atom:link href="http://paaw.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 08 Sep 2015 14:35:08 -0500</pubDate>
-    <lastBuildDate>Tue, 08 Sep 2015 14:35:08 -0500</lastBuildDate>
+    <pubDate>Thu, 22 Oct 2015 10:44:53 -0500</pubDate>
+    <lastBuildDate>Thu, 22 Oct 2015 10:44:53 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Status</title>
+        <description>&lt;h1 id=&quot;status-update&quot;&gt;Status Update&lt;/h1&gt;
+
+&lt;h3 id=&quot;maewing1&quot;&gt;mAEWing1&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Hati with Wing Set 3
+    &lt;ul&gt;
+      &lt;li&gt;MOI and mass properties testing data sent to team&lt;/li&gt;
+      &lt;li&gt;GVT data sent to STI
+        &lt;ul&gt;
+          &lt;li&gt;Will analyze and validate UMN’s results, then send to VT&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Aft c.g. tests planned at 23 m/s and 26 m/s to gather open-loop dynamics data&lt;/li&gt;
+      &lt;li&gt;Considering testing foreward c.g. for better low speed stability
+        &lt;ul&gt;
+          &lt;li&gt;Seems like a low damped phugoid is causing stability issues below 15 m/s&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;CM Soft modeling Hati + FEM 3.3&lt;/li&gt;
+  &lt;li&gt;Dave S. analyzing mis-match between models and flight test results for Skoll + WS1
+    &lt;ul&gt;
+      &lt;li&gt;Two reasons for different slope of flutter frequency with speed
+        &lt;ul&gt;
+          &lt;li&gt;Mode shape&lt;/li&gt;
+          &lt;li&gt;Lift distribution&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Thu, 01 Oct 2015 00:00:00 -0500</pubDate>
+        <link>http://paaw.github.io/status/2015/10/01/status.html</link>
+        <guid isPermaLink="true">http://paaw.github.io/status/2015/10/01/status.html</guid>
+        
+        
+        <category>status</category>
+        
+      </item>
     
       <item>
         <title>Status</title>
@@ -413,56 +458,6 @@
         <pubDate>Thu, 09 Jul 2015 00:00:00 -0500</pubDate>
         <link>http://paaw.github.io/status/2015/07/09/status.html</link>
         <guid isPermaLink="true">http://paaw.github.io/status/2015/07/09/status.html</guid>
-        
-        
-        <category>status</category>
-        
-      </item>
-    
-      <item>
-        <title>Status</title>
-        <description>&lt;h1 id=&quot;status-update&quot;&gt;Status Update&lt;/h1&gt;
-
-&lt;h3 id=&quot;maewing1&quot;&gt;mAEWing1&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;UMN
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;/download/skoll.mp3&quot;&gt;Sköll&lt;/a&gt; with WS1 complete, flight attempted on 2015-06-16, but scrubbed due to intermittent faults with ground support equipment.&lt;/li&gt;
-      &lt;li&gt;Next &lt;a href=&quot;/download/skoll.mp3&quot;&gt;Sköll&lt;/a&gt; flight attempt will be Tuesday, 2015-06-23.&lt;/li&gt;
-      &lt;li&gt;Hati center-body and wing layup with WS2 complete. Wings (WS2) will be built as flexible wings. Anticipating ready for flexible aircraft flights 1st week of July.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;STI
-    &lt;ul&gt;
-      &lt;li&gt;Transitioning from flight data analysis on Fenrir to model development.&lt;/li&gt;
-      &lt;li&gt;A structure only Reduced Order Model (ROM) has been built.&lt;/li&gt;
-      &lt;li&gt;Anticipating 1 ROM complete next week, linear model at 1 flight condition, likely around when BFF goes unstable.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;CM Soft
-    &lt;ul&gt;
-      &lt;li&gt;Unsteady aeroelastic simulation with the c.g. held fixed.&lt;/li&gt;
-      &lt;li&gt;Inviscid flow with a step input.&lt;/li&gt;
-      &lt;li&gt;Used to find damping ratio as a function of airspeed.&lt;/li&gt;
-      &lt;li&gt;Estimating an 11-14 Hz mode is going unstable at around 78 - 80 knots.&lt;/li&gt;
-      &lt;li&gt;Not much variation with altitude.&lt;/li&gt;
-      &lt;li&gt;May be useful to look at reactions at the center node.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;VT
-    &lt;ul&gt;
-      &lt;li&gt;Working on a drag buildup.&lt;/li&gt;
-      &lt;li&gt;Mostly friction and form drag at our test conditions, low induced drag contributions.&lt;/li&gt;
-      &lt;li&gt;Adding contribution from leading edge flaps.&lt;/li&gt;
-      &lt;li&gt;Similar to CM Soft, not finding much variation with altitude.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Thu, 18 Jun 2015 00:00:00 -0500</pubDate>
-        <link>http://paaw.github.io/status/2015/06/18/status.html</link>
-        <guid isPermaLink="true">http://paaw.github.io/status/2015/06/18/status.html</guid>
         
         
         <category>status</category>
