@@ -6,9 +6,69 @@
 </description>
     <link>http://paaw.github.io/</link>
     <atom:link href="http://paaw.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 22 Oct 2015 10:44:53 -0500</pubDate>
-    <lastBuildDate>Thu, 22 Oct 2015 10:44:53 -0500</lastBuildDate>
-    <generator>Jekyll v2.5.3</generator>
+    <pubDate>Mon, 09 Nov 2015 14:06:28 -0600</pubDate>
+    <lastBuildDate>Mon, 09 Nov 2015 14:06:28 -0600</lastBuildDate>
+    <generator>Jekyll v3.0.0</generator>
+    
+      <item>
+        <title>Status</title>
+        <description>&lt;h1 id=&quot;tactical-meeting&quot;&gt;Tactical Meeting&lt;/h1&gt;
+
+&lt;h3 id=&quot;maewing1&quot;&gt;mAEWing1&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;FEM
+    &lt;ul&gt;
+      &lt;li&gt;Latest and best version is 4.2&lt;/li&gt;
+      &lt;li&gt;Will go forward with this one:
+        &lt;ul&gt;
+          &lt;li&gt;CM Soft and Dave S will update models&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Modeling
+    &lt;ul&gt;
+      &lt;li&gt;Aero coefficients, mode shapes, and state space models from Dave S will be sent to UMN&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;status-update&quot;&gt;Status Update&lt;/h1&gt;
+
+&lt;h3 id=&quot;maewing1-1&quot;&gt;mAEWing1&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;First wing bending frequency / speed gradient
+    &lt;ul&gt;
+      &lt;li&gt;Dave S and VT investigating sources with FEM, no conclusions yet, still in work&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;maewing2&quot;&gt;mAEWing2&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;VT working on mAEWing2
+    &lt;ul&gt;
+      &lt;li&gt;NASTRAN structural analysis&lt;/li&gt;
+      &lt;li&gt;Updating mesh for flaps&lt;/li&gt;
+      &lt;li&gt;Parameterizing flap shapes&lt;/li&gt;
+      &lt;li&gt;Slope change for CML&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;UMN will send planform and winglet geometry to Dave S middle next week to begin model development&lt;/li&gt;
+  &lt;li&gt;Aurora is expecting a quote from Stratasys regarding mold manufacturing soon&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Thu, 05 Nov 2015 00:00:00 -0600</pubDate>
+        <link>http://paaw.github.io/year2/tactical/2015/11/05/tactical.html</link>
+        <guid isPermaLink="true">http://paaw.github.io/year2/tactical/2015/11/05/tactical.html</guid>
+        
+        
+        <category>Year2</category>
+        
+        <category>tactical</category>
+        
+      </item>
     
       <item>
         <title>Status</title>
@@ -47,9 +107,11 @@
 
 </description>
         <pubDate>Thu, 01 Oct 2015 00:00:00 -0500</pubDate>
-        <link>http://paaw.github.io/status/2015/10/01/status.html</link>
-        <guid isPermaLink="true">http://paaw.github.io/status/2015/10/01/status.html</guid>
+        <link>http://paaw.github.io/year2/status/2015/10/01/status.html</link>
+        <guid isPermaLink="true">http://paaw.github.io/year2/status/2015/10/01/status.html</guid>
         
+        
+        <category>Year2</category>
         
         <category>status</category>
         
@@ -82,9 +144,11 @@
 
 </description>
         <pubDate>Thu, 03 Sep 2015 00:00:00 -0500</pubDate>
-        <link>http://paaw.github.io/status/2015/09/03/status.html</link>
-        <guid isPermaLink="true">http://paaw.github.io/status/2015/09/03/status.html</guid>
+        <link>http://paaw.github.io/year1/status/2015/09/03/status.html</link>
+        <guid isPermaLink="true">http://paaw.github.io/year1/status/2015/09/03/status.html</guid>
         
+        
+        <category>Year1</category>
         
         <category>status</category>
         
@@ -127,9 +191,11 @@
 
 </description>
         <pubDate>Thu, 27 Aug 2015 00:00:00 -0500</pubDate>
-        <link>http://paaw.github.io/status/2015/08/27/status.html</link>
-        <guid isPermaLink="true">http://paaw.github.io/status/2015/08/27/status.html</guid>
+        <link>http://paaw.github.io/year1/status/2015/08/27/status.html</link>
+        <guid isPermaLink="true">http://paaw.github.io/year1/status/2015/08/27/status.html</guid>
         
+        
+        <category>Year1</category>
         
         <category>status</category>
         
@@ -173,9 +239,11 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 20 Aug 2015 00:00:00 -0500</pubDate>
-        <link>http://paaw.github.io/status/2015/08/20/status.html</link>
-        <guid isPermaLink="true">http://paaw.github.io/status/2015/08/20/status.html</guid>
+        <link>http://paaw.github.io/year1/status/2015/08/20/status.html</link>
+        <guid isPermaLink="true">http://paaw.github.io/year1/status/2015/08/20/status.html</guid>
         
+        
+        <category>Year1</category>
         
         <category>status</category>
         
@@ -223,9 +291,11 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 13 Aug 2015 00:00:00 -0500</pubDate>
-        <link>http://paaw.github.io/status/2015/08/13/status.html</link>
-        <guid isPermaLink="true">http://paaw.github.io/status/2015/08/13/status.html</guid>
+        <link>http://paaw.github.io/year1/status/2015/08/13/status.html</link>
+        <guid isPermaLink="true">http://paaw.github.io/year1/status/2015/08/13/status.html</guid>
         
+        
+        <category>Year1</category>
         
         <category>status</category>
         
@@ -271,9 +341,11 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 06 Aug 2015 00:00:00 -0500</pubDate>
-        <link>http://paaw.github.io/status/2015/08/06/status.html</link>
-        <guid isPermaLink="true">http://paaw.github.io/status/2015/08/06/status.html</guid>
+        <link>http://paaw.github.io/year1/status/2015/08/06/status.html</link>
+        <guid isPermaLink="true">http://paaw.github.io/year1/status/2015/08/06/status.html</guid>
         
+        
+        <category>Year1</category>
         
         <category>status</category>
         
@@ -331,9 +403,11 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 30 Jul 2015 00:00:00 -0500</pubDate>
-        <link>http://paaw.github.io/status/2015/07/30/status.html</link>
-        <guid isPermaLink="true">http://paaw.github.io/status/2015/07/30/status.html</guid>
+        <link>http://paaw.github.io/year1/status/2015/07/30/status.html</link>
+        <guid isPermaLink="true">http://paaw.github.io/year1/status/2015/07/30/status.html</guid>
         
+        
+        <category>Year1</category>
         
         <category>status</category>
         
@@ -360,9 +434,11 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 23 Jul 2015 00:00:00 -0500</pubDate>
-        <link>http://paaw.github.io/status/2015/07/23/status.html</link>
-        <guid isPermaLink="true">http://paaw.github.io/status/2015/07/23/status.html</guid>
+        <link>http://paaw.github.io/year1/status/2015/07/23/status.html</link>
+        <guid isPermaLink="true">http://paaw.github.io/year1/status/2015/07/23/status.html</guid>
         
+        
+        <category>Year1</category>
         
         <category>status</category>
         
@@ -398,67 +474,11 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 16 Jul 2015 00:00:00 -0500</pubDate>
-        <link>http://paaw.github.io/status/2015/07/16/status.html</link>
-        <guid isPermaLink="true">http://paaw.github.io/status/2015/07/16/status.html</guid>
+        <link>http://paaw.github.io/year1/status/2015/07/16/status.html</link>
+        <guid isPermaLink="true">http://paaw.github.io/year1/status/2015/07/16/status.html</guid>
         
         
-        <category>status</category>
-        
-      </item>
-    
-      <item>
-        <title>Status</title>
-        <description>&lt;h1 id=&quot;status-update&quot;&gt;Status Update&lt;/h1&gt;
-&lt;ul&gt;
-  &lt;li&gt;Annual report in work&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;maewing1&quot;&gt;mAEWing1&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;UMN
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;/download/skoll.mp3&quot;&gt;Sköll&lt;/a&gt; with WS1 flight 03 completed on July 2, good parameter estimation dataset captured at 20 m/s&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;/download/skoll.mp3&quot;&gt;Sköll&lt;/a&gt; with WS1 flight 04 completed on July 9, parameter estimation dataset captured at 30 m/s; significant flexible dynamics observed&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;STI
-    &lt;ul&gt;
-      &lt;li&gt;ROM completed&lt;/li&gt;
-      &lt;li&gt;Can approximate model at different speeds&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Dave S.
-    &lt;ul&gt;
-      &lt;li&gt;Model matches with STI&lt;/li&gt;
-      &lt;li&gt;Waiting for FEM from VT, will redo model and analysis following FEM update&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;VT
-    &lt;ul&gt;
-      &lt;li&gt;Point mass model of &lt;a href=&quot;/download/skoll.mp3&quot;&gt;Sköll&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;Tuning based on mass properties testing completed at UMN&lt;/li&gt;
-      &lt;li&gt;C.G. error still significant&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;CM Soft
-    &lt;ul&gt;
-      &lt;li&gt;Finding critical flutter points&lt;/li&gt;
-      &lt;li&gt;Inviscid flow with two different boundary conditions:
-        &lt;ul&gt;
-          &lt;li&gt;Free to move&lt;/li&gt;
-          &lt;li&gt;Clamped&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Using a nonlinear aero and full FEM, STI is using linear aero and reduced structural model&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Thu, 09 Jul 2015 00:00:00 -0500</pubDate>
-        <link>http://paaw.github.io/status/2015/07/09/status.html</link>
-        <guid isPermaLink="true">http://paaw.github.io/status/2015/07/09/status.html</guid>
-        
+        <category>Year1</category>
         
         <category>status</category>
         
