@@ -6,9 +6,41 @@
 </description>
     <link>http://paaw.github.io/</link>
     <atom:link href="http://paaw.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 09 Nov 2015 14:06:28 -0600</pubDate>
-    <lastBuildDate>Mon, 09 Nov 2015 14:06:28 -0600</lastBuildDate>
-    <generator>Jekyll v3.0.0</generator>
+    <pubDate>Wed, 18 Nov 2015 16:07:04 -0600</pubDate>
+    <lastBuildDate>Wed, 18 Nov 2015 16:07:04 -0600</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Status</title>
+        <description>&lt;h1 id=&quot;status-update&quot;&gt;Status Update&lt;/h1&gt;
+
+&lt;h3 id=&quot;maewing1&quot;&gt;mAEWing1&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;FEM v4.2
+    &lt;ul&gt;
+      &lt;li&gt;may be free play of wing relative to center-body&lt;/li&gt;
+      &lt;li&gt;using springs to model connection
+        &lt;ul&gt;
+          &lt;li&gt;UMN will conduct a GVT of the wing to update this model&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;updated FEM expected next week&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Papers for AIAA Sci Tech session are due Dec. 1&lt;/li&gt;
+  &lt;li&gt;STI will coordinate with NASA AFRC to attend X-56 GVT&lt;/li&gt;
+  &lt;li&gt;IOROM complete for FEM v3.3, which is WS2 + Hati CB&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Thu, 12 Nov 2015 00:00:00 -0600</pubDate>
+        <link>http://paaw.github.io/status/2015/11/12/status.html</link>
+        <guid isPermaLink="true">http://paaw.github.io/status/2015/11/12/status.html</guid>
+        
+        
+        <category>status</category>
+        
+      </item>
     
       <item>
         <title>Status</title>
@@ -60,11 +92,9 @@
 
 </description>
         <pubDate>Thu, 05 Nov 2015 00:00:00 -0600</pubDate>
-        <link>http://paaw.github.io/year2/tactical/2015/11/05/tactical.html</link>
-        <guid isPermaLink="true">http://paaw.github.io/year2/tactical/2015/11/05/tactical.html</guid>
+        <link>http://paaw.github.io/tactical/2015/11/05/tactical.html</link>
+        <guid isPermaLink="true">http://paaw.github.io/tactical/2015/11/05/tactical.html</guid>
         
-        
-        <category>Year2</category>
         
         <category>tactical</category>
         
@@ -107,11 +137,9 @@
 
 </description>
         <pubDate>Thu, 01 Oct 2015 00:00:00 -0500</pubDate>
-        <link>http://paaw.github.io/year2/status/2015/10/01/status.html</link>
-        <guid isPermaLink="true">http://paaw.github.io/year2/status/2015/10/01/status.html</guid>
+        <link>http://paaw.github.io/status/2015/10/01/status.html</link>
+        <guid isPermaLink="true">http://paaw.github.io/status/2015/10/01/status.html</guid>
         
-        
-        <category>Year2</category>
         
         <category>status</category>
         
@@ -144,11 +172,9 @@
 
 </description>
         <pubDate>Thu, 03 Sep 2015 00:00:00 -0500</pubDate>
-        <link>http://paaw.github.io/year1/status/2015/09/03/status.html</link>
-        <guid isPermaLink="true">http://paaw.github.io/year1/status/2015/09/03/status.html</guid>
+        <link>http://paaw.github.io/status/2015/09/03/status.html</link>
+        <guid isPermaLink="true">http://paaw.github.io/status/2015/09/03/status.html</guid>
         
-        
-        <category>Year1</category>
         
         <category>status</category>
         
@@ -191,11 +217,9 @@
 
 </description>
         <pubDate>Thu, 27 Aug 2015 00:00:00 -0500</pubDate>
-        <link>http://paaw.github.io/year1/status/2015/08/27/status.html</link>
-        <guid isPermaLink="true">http://paaw.github.io/year1/status/2015/08/27/status.html</guid>
+        <link>http://paaw.github.io/status/2015/08/27/status.html</link>
+        <guid isPermaLink="true">http://paaw.github.io/status/2015/08/27/status.html</guid>
         
-        
-        <category>Year1</category>
         
         <category>status</category>
         
@@ -239,11 +263,9 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 20 Aug 2015 00:00:00 -0500</pubDate>
-        <link>http://paaw.github.io/year1/status/2015/08/20/status.html</link>
-        <guid isPermaLink="true">http://paaw.github.io/year1/status/2015/08/20/status.html</guid>
+        <link>http://paaw.github.io/status/2015/08/20/status.html</link>
+        <guid isPermaLink="true">http://paaw.github.io/status/2015/08/20/status.html</guid>
         
-        
-        <category>Year1</category>
         
         <category>status</category>
         
@@ -291,11 +313,9 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 13 Aug 2015 00:00:00 -0500</pubDate>
-        <link>http://paaw.github.io/year1/status/2015/08/13/status.html</link>
-        <guid isPermaLink="true">http://paaw.github.io/year1/status/2015/08/13/status.html</guid>
+        <link>http://paaw.github.io/status/2015/08/13/status.html</link>
+        <guid isPermaLink="true">http://paaw.github.io/status/2015/08/13/status.html</guid>
         
-        
-        <category>Year1</category>
         
         <category>status</category>
         
@@ -341,11 +361,9 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 06 Aug 2015 00:00:00 -0500</pubDate>
-        <link>http://paaw.github.io/year1/status/2015/08/06/status.html</link>
-        <guid isPermaLink="true">http://paaw.github.io/year1/status/2015/08/06/status.html</guid>
+        <link>http://paaw.github.io/status/2015/08/06/status.html</link>
+        <guid isPermaLink="true">http://paaw.github.io/status/2015/08/06/status.html</guid>
         
-        
-        <category>Year1</category>
         
         <category>status</category>
         
@@ -403,11 +421,9 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 30 Jul 2015 00:00:00 -0500</pubDate>
-        <link>http://paaw.github.io/year1/status/2015/07/30/status.html</link>
-        <guid isPermaLink="true">http://paaw.github.io/year1/status/2015/07/30/status.html</guid>
+        <link>http://paaw.github.io/status/2015/07/30/status.html</link>
+        <guid isPermaLink="true">http://paaw.github.io/status/2015/07/30/status.html</guid>
         
-        
-        <category>Year1</category>
         
         <category>status</category>
         
@@ -434,51 +450,9 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 23 Jul 2015 00:00:00 -0500</pubDate>
-        <link>http://paaw.github.io/year1/status/2015/07/23/status.html</link>
-        <guid isPermaLink="true">http://paaw.github.io/year1/status/2015/07/23/status.html</guid>
+        <link>http://paaw.github.io/status/2015/07/23/status.html</link>
+        <guid isPermaLink="true">http://paaw.github.io/status/2015/07/23/status.html</guid>
         
-        
-        <category>Year1</category>
-        
-        <category>status</category>
-        
-      </item>
-    
-      <item>
-        <title>Status</title>
-        <description>&lt;h1 id=&quot;status-update&quot;&gt;Status Update&lt;/h1&gt;
-&lt;ul&gt;
-  &lt;li&gt;Annual report submitted.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;maewing1&quot;&gt;mAEWing1&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Wing Set 2 (WS2) complete except for wiring and the addition of accelerometers; reminder that WS2 skin is cut to increase flexibility compared with WS1.&lt;/li&gt;
-  &lt;li&gt;Static testing in work, GVT next week.&lt;/li&gt;
-  &lt;li&gt;Will get static testing data and report to VT Friday, GVT data once we get the test complete and documented. Should be used for model update and control law development.&lt;/li&gt;
-  &lt;li&gt;VT’s structural model has been updated based on foam and composite material, good C.G. matching with UMN mass buildup.&lt;/li&gt;
-  &lt;li&gt;Good discussion on flight test techniques and system identification.
-    &lt;ul&gt;
-      &lt;li&gt;3-2-1-1 inputs, chirps, multisines, and mutually orthogonal square wave inputs discussed as a means to identify flexible dynamics in flight weighed against the risk of over exciting structural modes.&lt;/li&gt;
-      &lt;li&gt;Can observe both bending and torsion modes from wing accelerometers on WS1.&lt;/li&gt;
-      &lt;li&gt;Try to increase seperation of wing accelerometers on WS2 to improve signal to noise for torsion.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;maewing2&quot;&gt;mAEWing2&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Rolling start for design.&lt;/li&gt;
-  &lt;li&gt;VT has been researching and working on MDAO.&lt;/li&gt;
-  &lt;li&gt;UMN and Aurora working on layout options, fabrication techniques, and schedule.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Thu, 16 Jul 2015 00:00:00 -0500</pubDate>
-        <link>http://paaw.github.io/year1/status/2015/07/16/status.html</link>
-        <guid isPermaLink="true">http://paaw.github.io/year1/status/2015/07/16/status.html</guid>
-        
-        
-        <category>Year1</category>
         
         <category>status</category>
         
